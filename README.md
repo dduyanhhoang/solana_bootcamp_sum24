@@ -1,1 +1,3 @@
-# solana_bootcamp_sum24
+# FPTU Solana Bootcap Sum24
+
+Notes and scripts
